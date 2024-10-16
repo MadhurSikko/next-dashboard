@@ -1,7 +1,7 @@
 export default function Page() {
     return (
         <>
-            This the customers page
+            This the customers page 
         </>
     )
 }
